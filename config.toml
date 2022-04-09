@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://technopatri.com"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Aprendizaje de Miko Velasco Ramírez"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
