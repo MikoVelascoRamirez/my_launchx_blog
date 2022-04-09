@@ -1,11 +1,12 @@
 ---
-title: LaunchX - Los apuntes de Miko.
+title: LaunchX - Los apuntes de Miko
 description: Experiencias, aprendizajes y pensamientos en la vida de una mente descarriada y difusa en el mundo de la tecnología.
 ---
 
-  Hola ✌️  soy el explorer **Miko Velasco Ramírez** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+  ¡Kiuvo! ✌️  soy el explorer **Miko Velasco Ramírez** (puedes llamarme Miko) y este es mi espacio personal donde compartiré mis aventuras dentro del programa de Launch X.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+Si estás aquí, te agradezco de entrada. AHora, si quieres quedarte, te invito a conocer mis aprendizajes y leer mis experiencias.
+Te recomiendo que vayas por un café o una taza de té.
 
 Actualmente me encuentro en la última fase del programa de Inovacción Virtual, denominada "Misión Backend con NodeJS".
 Ahora mismo son las 1:07 am de una noche de Abril en la cual me encuentro lleno de miedos y certezas respecto a lo que pueda venir en esta misión y de aquí en adelante, ya que hay varias cosas nuevas que mas que no entienda, me está costando mucho adaptar a mi vida, dentro de una vorágine de información que me es complicado saber por donde empezar.
@@ -24,5 +25,5 @@ En fin, espero hacerlo bien.
 Esto solo es el comienzo.
 De mi para mi.
 
-Miko.
-🚀
+Con cariño.
+Miko 🚀
