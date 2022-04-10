@@ -31,4 +31,4 @@ Tu compa, Miko.
 
 > ***-Un equipo es como un buen reloj: si se pierde una pieza todavía es bonito, pero ya no funciona igual.-***
 > 
->> **Ruud Gullit** - ex jugador de fútbol
+>> **Ruud Gullit**
