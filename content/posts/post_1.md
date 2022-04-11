@@ -20,4 +20,5 @@ siendo muy gratificante y a la vez desafiante de como he sentido la presión de 
 Iré actualizando esto conforme vaya teniendo tiempo.
 
 Gracias por leerme.
+
 Tu compa, Miko.
